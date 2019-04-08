@@ -3,7 +3,7 @@
         <active>true</active>
         <consumes>application/json,application/xml,text/xml</consumes>
         <consumes_customized>false</consumes_customized>
-        <default_operation_uri>/api/x_snc_polls/poll/{poll_id}</default_operation_uri>
+        <default_operation_uri/>
         <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
         <http_method>GET</http_method>
         <name>Retrieve poll detail</name>
@@ -31,17 +31,17 @@
         <short_description/>
         <sys_class_name>sys_ws_operation</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-04-05 14:15:31</sys_created_on>
-        <sys_id>377df2321b603300a936dc29bc4bcb77</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_created_on>2019-04-08 12:42:07</sys_created_on>
+        <sys_id>a6c54ab71b203300a936dc29bc4bcb2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Retrieve poll detail</sys_name>
         <sys_package display_value="Polls" source="x_snc_polls">cd1f2766133e1200ed373d62f244b082</sys_package>
         <sys_policy/>
         <sys_scope display_value="Polls">cd1f2766133e1200ed373d62f244b082</sys_scope>
-        <sys_update_name>sys_ws_operation_377df2321b603300a936dc29bc4bcb77</sys_update_name>
+        <sys_update_name>sys_ws_operation_a6c54ab71b203300a936dc29bc4bcb2a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-05 14:34:11</sys_updated_on>
-        <web_service_definition display_value="Poll">bebcfa7a1b603300a936dc29bc4bcbc0</web_service_definition>
-        <web_service_version display_value="v1">e90dbefe1b203300a936dc29bc4bcb05</web_service_version>
+        <sys_updated_on>2019-04-08 12:42:07</sys_updated_on>
+        <web_service_definition display_value="Poll">8f3586b71b203300a936dc29bc4bcb56</web_service_definition>
+        <web_service_version display_value="v1">cf850eb71b203300a936dc29bc4bcb65</web_service_version>
     </sys_ws_operation>
 </record_update>
